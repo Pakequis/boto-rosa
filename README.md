@@ -1,6 +1,5 @@
 # **Boto-Rosa**
-
-![Splash screen](Images\splash.jpg)
+![Splash screen](Images/splash.jpg)
 
 The “Boto-Rosa” project is a proof of concept for a device that shares many functionalities with the Flipper Zero. It is designed to be cost-effective, with materials costing less than $35.00, and it can be assembled using off-the-shelf Arduino modules.
 

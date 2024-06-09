@@ -2,7 +2,7 @@
 
 ## 09/06/2024
 - TFT LCD test - Splash screen with text and first project image logo (design by Julia T.).
-![Splash screen](./Images\splash-screen-test.jpg)
+![Splash screen](Images\splash.jpg)
 
 ## 02/06/2024
  - Initial commit with initial schematics and base firmware for test.

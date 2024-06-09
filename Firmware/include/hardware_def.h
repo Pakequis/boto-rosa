@@ -2,8 +2,8 @@
 
     02/06/2024
  */
-#ifndef __HARDWARE_DEF_H
-#define __HARDWARE_DEF_H
+#ifndef __HARDWARE_DEF_H__
+#define __HARDWARE_DEF_H__
 
 /* LCD Pins */
 #define LCD_BACKLIGHT   1
@@ -60,4 +60,4 @@
 #define PN532_CS    7
 #define RADIO_CS    4
 
-#endif /* __HARDWARE_DEF_H */
+#endif /* __HARDWARE_DEF_H__ */

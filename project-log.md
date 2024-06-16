@@ -1,5 +1,8 @@
 # **Boto-Rosa project logbook**
 
+## 16/06/2024
+- Small menu test, only to see the UI and test colors.
+
 ## 09/06/2024
 - TFT LCD test - Splash screen with text and first project image logo (design by Julia T.).
 ![Splash screen](Images/splash.jpg)

@@ -1,5 +1,9 @@
 # **Boto-Rosa project logbook**
 
+## 06/10/2024
+- I started the menu lib.
+- The Boto image was reduced to half its size in bytes, but retains the same resolution.
+
 ## 16/06/2024
 - Small menu test, only to see the UI and test colors.
 

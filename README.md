@@ -7,6 +7,6 @@ The firmware for the Boto-Rosa will be developed using the Arduino framework to 
 
 [Follow the progress of the project in the logbook.](project-log.md)
 
-The project is scheduled to be completed by December 2024 or first-half of 2025.
+The project is scheduled to be completed by first-half of 2025.
 
-## Files still in preliminary version!
+

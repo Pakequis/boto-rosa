@@ -1,7 +1,7 @@
 # **Boto-Rosa project logbook**
 
 ## 20/11/2024
-- Project paused. There another options from others makers:
+- Project paused.  There others options here in Github:
     1. [CapibaraZero](https://github.com/CapibaraZero/)
     2. [Hackbat](https://github.com/controlpaths/hackbat)
 
